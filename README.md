@@ -28,3 +28,5 @@ Install React Reveal
 Install React Transition
 ### `npm install react-transition-group@1.x --save`
 
+$ json-server --watch db.json --port 3004
+

@@ -64,7 +64,7 @@ footer {
                 SLIDER
 ===================================*/
 
-.item_slider {
+.item-slider {
     height:700px;
     background-size: cover !important;
     background-position: center center !important;
@@ -72,7 +72,7 @@ footer {
     font-family: 'Fjalla One', sans-serif;
 }
 
-.item_slider .caption {
+.item-slider .caption {
     color: #fff;
     position: absolute;
     right: 0px;
@@ -82,12 +82,12 @@ footer {
     text-transform: uppercase;
 }
 
-.item_slider .caption h4 {
+.item-slider .caption h4 {
     font-weight: 300;
         margin: 0px;
 }
 
-.item_slider .caption p {
+.item-slider .caption p {
     font-size: 70px;
     margin-top: 0px;
 }
@@ -387,4 +387,39 @@ footer {
 .fade-leave.fade-leave-active {
   opacity: 0.01;
   transition: opacity 300ms ease-in;
+}
+
+/*===================================
+                TEAMS
+===================================*/
+
+.item-slider{
+    height: 700px;
+    background-size:cover !important;
+    background-position: center center !important;
+    position: relative;
+    font-family: 'Fjalla One'; 
+}
+
+.item-slider .caption{
+    color: #fff;
+    position: absolute;
+    right: 0;
+    padding: 20px;
+    text-align: right; 
+    width: 320px;
+    text-transform: uppercase;
+
+}
+
+.item-slider .caption h4 {
+    font-weight:300;
+    margin:0px;
+}
+
+
+.item-slider .caption p {
+    font-size:70px;
+    margin-top: 0px;
+    
 }
