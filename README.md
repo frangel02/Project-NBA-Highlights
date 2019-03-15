@@ -1,6 +1,7 @@
 This a example of nba
 ## Available Scripts
-
+To install all denpendencies
+### `npm install`
 
 To run the project
 ### `npm start`
